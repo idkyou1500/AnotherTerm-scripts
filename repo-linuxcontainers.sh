@@ -1,4 +1,4 @@
-#!/system/bin/sh
+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#!/system/bin/sh
 
 set -e
 
